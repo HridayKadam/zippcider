@@ -1,2 +1,2 @@
 # zippcider
-made app called zipp for cider challenge 
+made app called zipp for cider challenge for Hack Club
